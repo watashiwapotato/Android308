@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">經緯度查/反查地址</string>
+
+  <string name="str_address">台北101</string>
+  <string name="label_longitude">經度:</string>
+  <string name="hint_longitude">121.56447219999995</string>
+  <string name="label_latitude">緯度:</string>
+  <string name="hint_latitude">25.0339639</string>
+  <string name="label_address">地址:</string>
+
+  <string name="hint_address">台北101</string>
+  <string name="btn_parse_address">地址查經緯度(1)</string>
+  <string name="btn_parse_latlng">經緯度查地址(2)</string>
+  <string name="btn_reset">重設(3)</string>
+
+  <string name="lost_connection">失去網路連線</string>
+  <string name="wifi_connected">Wi-Fi已連線</string>
+  <string name="connection_error">無法找到可用連線，請檢查網路連線</string>
+  <string name="connection_ok">網路已啟用，可載入API</string>
+  <string name="str_parsing">查詢API中，請稍候</string>
+  <string name="str_parsing_ok">解析成功</string>
+  <string name="err_query_latlng_first">請先執行地址查經緯度</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>
