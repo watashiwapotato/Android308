@@ -28,5 +28,7 @@ dependencies {
   implementation 'com.android.support:support-annotations:23.0.0'
   // 1. Geocoder與LatLng物件需要載入Google Play Service，請加上所需的package。
   // TO DO
+    implementation 'com.google.android.gms:play-services:12.0.1'
+
 
 }
